@@ -1,0 +1,1 @@
+Linux initialization script
