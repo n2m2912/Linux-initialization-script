@@ -43,3 +43,7 @@ echo "=============perl=============="
 apt-get install -y perl
 echo "=============dirmngr==========="
 apt-get install -y dirmngr
+echo "=============redshift==========="
+apt-get install -y redshift redshift-gtk
+echo "=============ufw================"
+apt-get install -y ufw gufw
