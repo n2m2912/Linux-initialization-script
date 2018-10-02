@@ -41,3 +41,5 @@ echo "=============make=============="
 apt-get install -y make
 echo "=============perl=============="
 apt-get install -y perl
+echo "=============dirmngr==========="
+apt-get install -y dirmngr
