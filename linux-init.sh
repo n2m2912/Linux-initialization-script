@@ -35,3 +35,9 @@ echo "=============bleach bit========="
 apt-get install -y bleachbit
 echo "=============screen============"
 apt-get install -y screen
+echo "=============gcc==============="
+apt-get install -y gcc
+echo "=============make=============="
+apt-get install -y make
+echo "=============perl=============="
+apt-get install -y perl
