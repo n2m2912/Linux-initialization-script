@@ -47,3 +47,5 @@ echo "=============redshift==========="
 apt-get install -y redshift redshift-gtk
 echo "=============ufw================"
 apt-get install -y ufw gufw
+echo "=============zip unzip================"
+apt-get install -y zip unzip
