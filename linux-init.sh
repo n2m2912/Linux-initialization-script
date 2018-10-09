@@ -49,3 +49,5 @@ echo "=============ufw================"
 apt-get install -y ufw gufw
 echo "=============zip unzip================"
 apt-get install -y zip unzip
+echo "=============macchanger==============="
+apt-get install -y macchanger
