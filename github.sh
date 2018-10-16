@@ -12,3 +12,4 @@ echo "=========krackattacks-scripts==="
 git clone https://github.com/vanhoefm/krackattacks-scripts.git
 echo "=========phishX================"
 git clone https://github.com/WeebSec/PhishX.git
+
