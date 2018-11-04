@@ -51,3 +51,5 @@ echo "=============zip unzip================"
 apt-get install -y zip unzip
 echo "=============macchanger==============="
 apt-get install -y macchanger
+echo "=============tmux====================="
+apt-get install -y tmux
