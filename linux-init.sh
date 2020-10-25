@@ -53,3 +53,4 @@ echo "=============macchanger==============="
 apt-get install -y macchanger
 echo "=============tmux====================="
 apt-get install -y tmux
+echo "=============Done====================="

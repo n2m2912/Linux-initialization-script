@@ -8,3 +8,4 @@ echo "==========lighttpd======"
 apt install lighttpd -y
 echo "=========bettercap======"
 apt install bettercap -y 
+echo "=========Done======"
